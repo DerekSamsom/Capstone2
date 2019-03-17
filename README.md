@@ -19,9 +19,9 @@ Milestone Report 1:  Capstone_2_Milestone_Report_1.pdf
 
 Milestone Report 2:  Capstone_2_Milestone_Report_2.pdf
 
-Final Report: Coming Soon!
+Final Report: Capstone_2-Traffic_Sign_Image_Recognition-Final_Report.pdf
 
-Slide Deck: Coming Soon!
+Slide Deck: Capstone_2_Slide_Deck-Traffic_Sign_Image_Recognition.pptx
 
 
 The data to be used for this project comes from the Institute for Neuroinformatik in Germany. 
